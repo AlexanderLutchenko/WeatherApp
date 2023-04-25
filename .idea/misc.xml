@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/OneDrive/Programming_Projects/AndroidStudioProjects/Demo_Projects/WeatherApp/app/src/main/res/layout/activity_main.xml" value="0.17864583333333334" />
+        <entry key="..\:/OneDrive/Programming_Projects/AndroidStudioProjects/WeatherApp/app/src/main/res/drawable/humidity.xml" value="0.35625" />
+        <entry key="..\:/OneDrive/Programming_Projects/AndroidStudioProjects/WeatherApp/app/src/main/res/drawable/location.xml" value="0.35625" />
+        <entry key="..\:/OneDrive/Programming_Projects/AndroidStudioProjects/WeatherApp/app/src/main/res/drawable/morning.xml" value="0.35625" />
+        <entry key="..\:/OneDrive/Programming_Projects/AndroidStudioProjects/WeatherApp/app/src/main/res/drawable/rain.xml" value="0.35625" />
+        <entry key="..\:/OneDrive/Programming_Projects/AndroidStudioProjects/WeatherApp/app/src/main/res/drawable/snowflake.xml" value="0.35625" />
+        <entry key="..\:/OneDrive/Programming_Projects/AndroidStudioProjects/WeatherApp/app/src/main/res/drawable/storm.xml" value="0.35625" />
+        <entry key="..\:/OneDrive/Programming_Projects/AndroidStudioProjects/WeatherApp/app/src/main/res/drawable/sunny.xml" value="0.35625" />
+        <entry key="..\:/OneDrive/Programming_Projects/AndroidStudioProjects/WeatherApp/app/src/main/res/drawable/sunrise.xml" value="0.35625" />
+        <entry key="..\:/OneDrive/Programming_Projects/AndroidStudioProjects/WeatherApp/app/src/main/res/drawable/sunset.xml" value="0.35625" />
+        <entry key="..\:/OneDrive/Programming_Projects/AndroidStudioProjects/WeatherApp/app/src/main/res/drawable/temperature.xml" value="0.35625" />
+        <entry key="..\:/OneDrive/Programming_Projects/AndroidStudioProjects/WeatherApp/app/src/main/res/layout/activity_main.xml" value="0.3359375" />
+        <entry key="..\:/OneDrive/Programming_Projects/AndroidStudioProjects/WeatherApp/app/src/main/res/layout/dialog_custom_progress.xml" value="0.23489583333333333" />
+        <entry key="..\:/OneDrive/Programming_Projects/AndroidStudioProjects/WeatherApp/app/src/main/res/menu/menu_main.xml" value="0.15885416666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

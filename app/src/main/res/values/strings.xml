@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+
+    <!--Step27 Add required project strings to the list below-->
+    <string name="please_wait">Please Wait&#8230;</string>
+
+    <string name="image_contentDescription">image</string>
+
+    <string name="menu_refresh">Refresh</string>
+
+    <string name="last_updated">Last Updated:</string>
+
+</resources>

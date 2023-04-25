@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!--Step36 create a layout for "Refresh" main screen button(toolbar menu item)-->
+    <!--This Menu can hold multiple items such as the one below-->
+<item
+    android:id="@+id/action_refresh"
+    android:icon="@drawable/ic_refresh_24dp"
+    android:title="@string/menu_refresh"
+    android:orderInCategory="100"
+    app:showAsAction="always"/>
+</menu>
